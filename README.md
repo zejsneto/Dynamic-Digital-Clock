@@ -23,7 +23,7 @@ Link: [View Demo](https://zejsneto.github.io/Dynamic-Digital-Clock/)
 
 ---
 
-## 📃 Credits to [Digital Innovation One](https://web.dio.me/home)
+## 📃 Credits to Larissa Kich
 
 ![YouTubeChannel](https://img.shields.io/badge/--05122A?style=flat&logo=youtube)&nbsp;
 [Channel](https://www.youtube.com/@larissakich)<br>
